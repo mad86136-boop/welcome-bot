@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "moment": "^2.30.1"
+  }
+}
