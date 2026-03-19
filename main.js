@@ -16,7 +16,7 @@ const SETTINGS = {
     ALLOWED_GUILDS: ["1483360253864316999", "1374197212074082410", "1476071713279180885"],
     WELCOME_CHANNEL_NAME: "🛬〡𝗪𝗲𝗹𝗰𝗼𝗺𝗲", // اسم الروم بالزخرفة
     SERVER_NAME: "Prind city", 
-    BANNER_URL: "https://media.discordapp.net/attachments/1389469503137513496/1478915126223704135/create_1373877664087277578_1772545507700.gif"
+    BANNER_URL: "https://media.discordapp.net/attachments/1458343245934493924/1458992518250106999/Banner.gif?ex=69bc9fab&is=69bb4e2b&hm=77b9ecea118a09926528a05a2fe6ef926057da45e6d08ccc5977e36b8811988b&=&width=1265&height=712"
 };
 
 const invites = new Collection();
